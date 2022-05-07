@@ -1122,9 +1122,17 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react@*", "@types/react@>=16.9.11", "@types/react@^18.0.1":
+"@types/react@*", "@types/react@>=16.9.11":
   version "18.0.1"
   resolved "https://registry.npmjs.org/@types/react/-/react-18.0.1.tgz"
+  dependencies:
+    "@types/prop-types" "*"
+    "@types/scheduler" "*"
+    csstype "^3.0.2"
+
+"@types/react@^18.0.9":
+  version "18.0.9"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.0.9.tgz#d6712a38bd6cd83469603e7359511126f122e878"
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
