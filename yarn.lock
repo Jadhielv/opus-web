@@ -3326,9 +3326,9 @@ fragment-cache@^0.2.1:
   dependencies:
     map-cache "^0.2.2"
 
-framer-motion@^6.3.3:
-  version "6.3.3"
-  resolved "https://registry.yarnpkg.com/framer-motion/-/framer-motion-6.3.3.tgz#58978fe6955d13000351ea4c134c9bc052638967"
+framer-motion@^6.3.4:
+  version "6.3.4"
+  resolved "https://registry.yarnpkg.com/framer-motion/-/framer-motion-6.3.4.tgz#b8035f60c6d7863162310ddee32eb386212a3ce7"
   dependencies:
     framesync "6.0.1"
     hey-listen "^1.0.8"
